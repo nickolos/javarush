@@ -1,0 +1,2 @@
+D://Programing//Java//NewPluginJavaRush//JavaRushTasks//1.JavaSyntax//src//com//javarush//task//task09//task0928//file.txt
+D://Programing//Java//NewPluginJavaRush//JavaRushTasks//1.JavaSyntax//src//com//javarush//task//task09//task0928//file2.txt
